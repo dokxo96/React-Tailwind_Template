@@ -2,9 +2,12 @@
 Use until create-react-app doesn't support PostCSS 8.
 
 ## How to use?
-1. Do `git clone https://github.com/tanmayhinge/react-tailwind-template.git` or easily [ Generate template](https://github.com/tanmayhinge/react-tailwind-template/generate)
-2. In the command line, do `npm install` to install all the dependencies. 
-3. `npm start` ⚙️
+1. Do 
+ ` git clone https://github.com/dokxo96/React-Tailwind_Template.git` 
+2. In the command line, do to install all the dependencies.
+ `npm install` 
+3. To run.
+ `npm start` ⚙️
 
 ## Why did I make this?
 I was using Tailwind with react a lot and felt the whole process of setting up tailwind every time quite the fuss.  
